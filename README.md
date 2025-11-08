@@ -7,3 +7,4 @@ Compared sales by fat content, outlet size, and item type
 Identified top-performing categories like Fruits & Vegetables and Snack Foods
 Tracked growth patterns through outlet establishment analysis
 Skills & Tools: Excel, Pivot Tables, Charts, Data Cleaning, Visualization
+<img width="1619" height="866" alt="image" src="https://github.com/user-attachments/assets/e85824ad-5d83-4bfb-a0a6-9575e05e2105" />
